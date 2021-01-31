@@ -17,13 +17,13 @@ public class CibleController : MonoBehaviour
     {
         
             Vector3 posGO = spawnPointTransform.position;
-            for (int i = 0; i < 5; i++)
+            for (int i = 0; i < 4; i++)
             {
-                Vector3 newPos = posGO + new Vector3(0f,0f, i*3);
+                Vector3 newPos = posGO + new Vector3(i*3f,0f, 0f);
             
                 Instantiate(Resources.Load("Cible"),
                     newPos,
-                    Quaternion.identity,
+                    Quaternion.Euler(0,90,0),
                     CibleHolderTransform);
             }
             
