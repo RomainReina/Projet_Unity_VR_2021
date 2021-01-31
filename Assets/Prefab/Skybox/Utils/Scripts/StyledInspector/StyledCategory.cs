@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿using UnityEngine;
 
 namespace Boxophobic.StyledGUI
@@ -13,3 +14,20 @@ namespace Boxophobic.StyledGUI
     }
 }
 
+=======
+﻿using UnityEngine;
+
+namespace Boxophobic.StyledGUI
+{
+    public class StyledCategory : PropertyAttribute
+    {
+        public string category;
+
+        public StyledCategory(string category)
+        {
+            this.category = category;
+        }
+    }
+}
+
+>>>>>>> main

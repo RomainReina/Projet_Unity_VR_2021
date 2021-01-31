@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿using UnityEngine;
 
 namespace Boxophobic.StyledGUI
@@ -7,3 +8,14 @@ namespace Boxophobic.StyledGUI
     }
 }
 
+=======
+﻿using UnityEngine;
+
+namespace Boxophobic.StyledGUI
+{
+    public class StyledTexturePreview : PropertyAttribute
+    {
+    }
+}
+
+>>>>>>> main
