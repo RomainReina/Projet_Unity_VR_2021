@@ -1087,7 +1087,7 @@ MonoBehaviour:
   m_text: 'TIP
 
 
-    Take the gun and shoot the targets'
+    Grab the gun with your right hand and shoot the targets'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -12402,7 +12402,7 @@ MonoBehaviour:
   m_text: 'TIP
 
 
-    Grab the rings and throw them on the sticks'
+    Grab the rings with your left hand and throw them on the sticks'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -12708,7 +12708,7 @@ MonoBehaviour:
   m_text: 'TIP
 
 
-    Grab the balls and throw them on the cans'
+    Grab the balls with your left hand and throw them on the cans'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
