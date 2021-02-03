@@ -13800,7 +13800,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh35122
+  m_Name: pb_Mesh19752
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -21567,7 +21567,7 @@ Transform:
   m_GameObject: {fileID: 1176144014}
   m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
   m_LocalPosition: {x: 22.2, y: -26.156345, z: -46.93}
-  m_LocalScale: {x: 1.9918, y: 1, z: 1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 300223075}
   - {fileID: 1975268816}
@@ -23500,9 +23500,9 @@ MonoBehaviour:
   m_RigBaseGameObject: {fileID: 1271941929}
   m_CameraFloorOffsetObject: {fileID: 996073593}
   m_CameraGameObject: {fileID: 1159648549}
-  m_TrackingOriginMode: 2
+  m_TrackingOriginMode: 1
   m_TrackingSpace: 3
-  m_CameraYOffset: 1.36144
+  m_CameraYOffset: 2.5
 --- !u!4 &1271941931
 Transform:
   m_ObjectHideFlags: 0
@@ -23511,7 +23511,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1271941929}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 13.06, y: 0.14, z: 4.1}
+  m_LocalPosition: {x: 13.48, y: 0.14, z: 4.1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 996073594}
@@ -31044,7 +31044,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh35186
+  m_Name: pb_Mesh19774
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -34671,7 +34671,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh31946
+  m_Name: pb_Mesh18420
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
