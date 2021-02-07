@@ -226,7 +226,7 @@ MonoBehaviour:
   m_OnDeactivate:
     m_PersistentCalls:
       m_Calls: []
-  m_TeleportationProvider: {fileID: 0}
+  m_TeleportationProvider: {fileID: 1271941932}
   m_MatchOrientation: 0
   m_TeleportTrigger: 0
 --- !u!64 &3795989
@@ -1226,7 +1226,7 @@ MonoBehaviour:
   m_OnDeactivate:
     m_PersistentCalls:
       m_Calls: []
-  m_TeleportationProvider: {fileID: 0}
+  m_TeleportationProvider: {fileID: 1271941932}
   m_MatchOrientation: 0
   m_TeleportTrigger: 0
 --- !u!64 &42441927
@@ -3527,7 +3527,7 @@ MonoBehaviour:
   m_OnDeactivate:
     m_PersistentCalls:
       m_Calls: []
-  m_TeleportationProvider: {fileID: 0}
+  m_TeleportationProvider: {fileID: 1271941932}
   m_MatchOrientation: 0
   m_TeleportTrigger: 0
 --- !u!64 &209672530
@@ -10563,7 +10563,7 @@ MonoBehaviour:
   m_OnDeactivate:
     m_PersistentCalls:
       m_Calls: []
-  m_TeleportationProvider: {fileID: 0}
+  m_TeleportationProvider: {fileID: 1271941932}
   m_MatchOrientation: 0
   m_TeleportTrigger: 0
 --- !u!64 &566779339
@@ -12389,7 +12389,7 @@ MonoBehaviour:
   m_OnDeactivate:
     m_PersistentCalls:
       m_Calls: []
-  m_TeleportationProvider: {fileID: 0}
+  m_TeleportationProvider: {fileID: 1271941932}
   m_MatchOrientation: 0
   m_TeleportTrigger: 0
 --- !u!64 &671924397
@@ -15264,7 +15264,7 @@ MonoBehaviour:
   m_OnDeactivate:
     m_PersistentCalls:
       m_Calls: []
-  m_TeleportationProvider: {fileID: 0}
+  m_TeleportationProvider: {fileID: 1271941932}
   m_MatchOrientation: 0
   m_TeleportTrigger: 0
 --- !u!64 &795916749
@@ -18526,7 +18526,7 @@ MonoBehaviour:
   m_OnDeactivate:
     m_PersistentCalls:
       m_Calls: []
-  m_TeleportationProvider: {fileID: 0}
+  m_TeleportationProvider: {fileID: 1271941932}
   m_MatchOrientation: 0
   m_TeleportTrigger: 0
 --- !u!64 &973194786
@@ -19437,7 +19437,7 @@ MonoBehaviour:
   m_OnDeactivate:
     m_PersistentCalls:
       m_Calls: []
-  m_TeleportationProvider: {fileID: 0}
+  m_TeleportationProvider: {fileID: 1271941932}
   m_MatchOrientation: 0
   m_TeleportTrigger: 0
 --- !u!64 &1012012994
@@ -26387,7 +26387,7 @@ MonoBehaviour:
   m_OnDeactivate:
     m_PersistentCalls:
       m_Calls: []
-  m_TeleportationProvider: {fileID: 0}
+  m_TeleportationProvider: {fileID: 1271941932}
   m_MatchOrientation: 0
   m_TeleportTrigger: 0
 --- !u!64 &1358950986
@@ -26778,7 +26778,7 @@ MonoBehaviour:
   m_OnDeactivate:
     m_PersistentCalls:
       m_Calls: []
-  m_TeleportationProvider: {fileID: 0}
+  m_TeleportationProvider: {fileID: 1271941932}
   m_MatchOrientation: 0
   m_TeleportTrigger: 0
 --- !u!64 &1369028656
@@ -29793,7 +29793,7 @@ MonoBehaviour:
   m_OnDeactivate:
     m_PersistentCalls:
       m_Calls: []
-  m_TeleportationProvider: {fileID: 0}
+  m_TeleportationProvider: {fileID: 1271941932}
   m_MatchOrientation: 0
   m_TeleportTrigger: 0
 --- !u!64 &1525788718
@@ -33306,7 +33306,7 @@ MonoBehaviour:
   m_OnDeactivate:
     m_PersistentCalls:
       m_Calls: []
-  m_TeleportationProvider: {fileID: 0}
+  m_TeleportationProvider: {fileID: 1271941932}
   m_MatchOrientation: 0
   m_TeleportTrigger: 0
 --- !u!64 &1734444870
@@ -39710,7 +39710,7 @@ MonoBehaviour:
   m_OnDeactivate:
     m_PersistentCalls:
       m_Calls: []
-  m_TeleportationProvider: {fileID: 0}
+  m_TeleportationProvider: {fileID: 1271941932}
   m_MatchOrientation: 0
   m_TeleportTrigger: 0
 --- !u!64 &2069882396
