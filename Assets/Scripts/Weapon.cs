@@ -27,10 +27,10 @@ public class Weapon : MonoBehaviour
 
     private void SetupInteractableWeaponEvents()
     {
-        interactableWeapon.onSelectEntered.AddListener(PickUpWeapon);
-        interactableWeapon.onSelectExited.AddListener(DropWeapon);
-        interactableWeapon.onActivate.AddListener(StartShooting);
-        interactableWeapon.onDeactivate.AddListener(StopShooting);
+        interactableWeapon.selectEntered.AddListener(arg0 => interactableWeapon.GetComponent<MeshHidder>().Hide());
+        interactableWeapon.selectExited.AddListener(arg0 => interactableWeapon.GetComponent<MeshHidder>().Show());
+        //interactableWeapon.activated.AddListener();
+        //interactableWeapon.deactivated.AddListener(StopShooting);
     }
 
     private void PickUpWeapon(XRBaseInteractor interactor)
