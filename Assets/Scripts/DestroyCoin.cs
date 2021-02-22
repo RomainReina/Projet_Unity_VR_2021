@@ -4,8 +4,15 @@ using UnityEngine;
 
 public class DestroyCoin : MonoBehaviour
 {
-     void OnCollisionEnter(Collision collision){
-          Destroy(collision.collider.gameObject);
-          Destroy(gameObject);
-          }
+     public bool isDestroyed;
+	
+     void OnCollisionEnter(Collision coll){
+     if(!coll.gameObject.GetComponent<DestroyCoin>().isDestroyed) {
+         isDestroyed = true;
+         Destroy(gameObject);
+     }
+     }
 }
+
+ 
+ 
